@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ]
+  ],
+  "legacy_uid": "4fb5773d-63e3-ef19-a20e-142abede2571",
+  "instructors": {
+    "content": [
+      "237d9e8d-7916-11bb-2e1a-85b89abe13d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "28d18c4b-1868-0fb9-cec5-63f53a722bcc",
+    "website": "18-330-introduction-to-numerical-analysis-spring-2004"
+  },
+  "course_title": "Introduction to Numerical Analysis",
+  "course_description": "This course analyzed the basic techniques for the efficient numerical solution of problems in science and engineering. Topics spanned root finding, interpolation, approximation of functions, integration, differential equations and direct and iterative methods in linear algebra.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.330",
+  "course_image_thumbnail": {
+    "content": "4f54e0ee-ef66-f0b3-f813-d3830ab7ec04",
+    "website": "18-330-introduction-to-numerical-analysis-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "83545a69-1dd9-44b3-aca2-e76480a57730",
+  "site_short_id": "18.330-spring-2004",
+  "site_url_path": "courses/18-330-introduction-to-numerical-analysis-spring-2004",
+  "title": "Course Metadata"
+}
