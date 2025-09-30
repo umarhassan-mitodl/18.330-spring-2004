@@ -4,6 +4,8 @@ description: Lecture handout.
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/9bf2972d41548dc48b39f4c933787d49_lecture19.pdf
 file_size: 285456
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource has problems for complex Newton method, recurrence re
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/4a7e71adf97496322952ee9865f45b30_assignment2.pdf
 file_size: 59577
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

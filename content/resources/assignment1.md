@@ -5,6 +5,8 @@ description: This resource has problems for calculating smallest and largest pos
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/5bb247248a6bb01c61d27ea2aa4e7aef_assignment1.pdf
 file_size: 23351
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

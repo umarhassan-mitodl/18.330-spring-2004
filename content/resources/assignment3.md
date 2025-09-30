@@ -5,6 +5,8 @@ description: This resource has problems for Romberg extrapolation, Newton-Cotes,
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/579f5e4a5bf5598210feeca61fa2b421_assignment3.pdf
 file_size: 52366
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

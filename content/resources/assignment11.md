@@ -4,6 +4,8 @@ description: This resource has problems for successive over-relaxation, and extr
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/08e218befb9af556468d5502147455a2_assignment11.pdf
 file_size: 39809
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

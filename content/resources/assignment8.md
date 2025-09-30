@@ -5,6 +5,8 @@ description: This resource has problems for Runge-Kutta method, simple Euler, Mi
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/f4e9808451e733d3d549dd071124e3f0_assignment8.pdf
 file_size: 218298
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

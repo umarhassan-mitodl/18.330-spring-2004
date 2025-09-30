@@ -4,6 +4,8 @@ description: This resource has problems for extrapolation and Gaussian quadratur
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2004/94029f7b27f2f56d824069163e4627a5_assignment6.pdf
 file_size: 29606
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
